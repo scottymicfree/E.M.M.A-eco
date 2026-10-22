@@ -1,7 +1,6 @@
 # E.M.M.A. (Enhanced Machine Mind Architecture)
 
-> 🌐 **Fenton Lab official website:** [fentonlabai.pages.dev](https://fentonlabai.pages.dev/)  
-> Planned primary domain: `fentonlabai.com` (custom-domain connection pending).
+> 🌐 **Fenton Lab official website:** [fentonlabai.com](https://fentonlabai.com/)
 
 **Sovereign Neuro-Cognitive AI Operating System Kernel & Active Defense Matrix**
 
